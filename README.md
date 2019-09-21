@@ -4,7 +4,7 @@ A personal pipeline to calculate Ka,Ks and Ka/Ks using PAML-yn00 with YN method
 
 Here, we only use yn00 soft which incorporated in PAML package to calculate Ka,ks,Ka/Ks with Yang and Nielsen (YN) method. We also using [mafft](https://mafft.cbrc.jp/alignment/software/) and [ParaAT v2.0](https://bigd.big.ac.cn/tools/paraat) to perform a codon alignemt and transform to PAML format.
 
-### Brief step:
+### Brief steps:
 1. Coding sequence, Protein sequence, and homologous group file, yn00_pre.ctl file
 2. ParaAT will using mafft to perform a condon alignment
 3. Get output PAML format file
