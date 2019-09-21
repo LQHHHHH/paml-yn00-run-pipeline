@@ -29,12 +29,12 @@ ParaAT.pl -h Fve.homo -n Fve.cds -a Fve.pep -p proc -o Fve -f paml -m mafft
 ```
 
 ## step 2
-### running run.yn00.sh
+### Running run.yn00.sh
 ```
 sh run.yn00.sh
 ```
 ## Finish
-### Check output file
+### Checking output file
 ```
 FvH4_3g34570.1-FvH4_6g14760.1
 omega(ka/ks)	ka	ks
