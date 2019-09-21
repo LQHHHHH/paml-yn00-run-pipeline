@@ -31,7 +31,7 @@ This step will yeild a Fve folder in you current path.
 
 ## step 2
 ### Running run.yn00.sh
-**make sure your yn00_pre.ctl run.yn00.sh and alignment results file are exist in same folder**
+**make sure your yn00_pre.ctl run.yn00.sh and alignment result files are exist in same folder**
 
 ```
 $ cd Fve
