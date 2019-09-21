@@ -25,13 +25,19 @@ Comparative analysis of the P-type ATPase Gene Family in six Rosaceae species an
 ## step 1
 ### Alignment
 ```
-ParaAT.pl -h Fve.homo -n Fve.cds -a Fve.pep -p proc -o Fve -f paml -m mafft
+$ ParaAT.pl -h Fve.homo -n Fve.cds -a Fve.pep -p proc -o Fve -f paml -m mafft
 ```
+This step will yeild a Fve folder in you current path.
 
 ## step 2
 ### Running run.yn00.sh
+**make sure your yn00_pre.ctl run.yn00.sh and alignment results file are exist in same folder**
+
 ```
-sh run.yn00.sh
+$ cd Fve
+$ ls
+yn00_pre.ctl run.yn00.sh FvH4_5g15700.1-FvH4_6g49360.1.cds_aln.paml FvH4_4g28450.1-FvH4_5g12920.1.cds_aln.paml FvH4_3g34570.1-FvH4_6g14760.1.cds_aln.paml 
+$ sh run.yn00.sh
 ```
 ## Finish
 ### Checking output file
