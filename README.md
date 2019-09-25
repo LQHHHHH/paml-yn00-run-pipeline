@@ -65,9 +65,7 @@ Results from PAML-yn00
 ```
 gene_pairs omega(ka/ks)	ka	ks
 FvH4_3g34570.1-FvH4_6g14760.1 0.0929 0.1501 +- 0.0086 1.6154 +- 0.1467
-gene_pairs omega(ka/ks)	ka	ks
 FvH4_4g28450.1-FvH4_5g12920.1 0.1055 0.1899 +- 0.0094 1.8002 +- 0.3746
-gene_pairs omega(ka/ks)	ka	ks
 FvH4_5g15700.1-FvH4_6g49360.1 0.0514 0.0793 +- 0.0071 1.5413 +- 0.1565
 ```
 
