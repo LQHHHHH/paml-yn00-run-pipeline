@@ -19,8 +19,7 @@ Here, we only use yn00 soft which incorporated in PAML package to calculate Ka,k
 
 **Anyone can use and revised this pipeline for personal use and welcome to cite our paper**
 
-Comparative analysis of the P-type ATPase Gene Family in six Rosaceae species and an expression analysis in pear (Pyrus bretschneideri Rehd.) (under review)
-
+Comparative analysis of the P-type ATPase Gene Family in six Rosaceae species and an expression analysis in pear (Pyrus bretschneideri Rehd.)
 
 ## step 1
 ### Alignment
